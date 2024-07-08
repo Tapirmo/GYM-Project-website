@@ -40,7 +40,10 @@ npm install
 請在終端機輸入 `cp .env.example .env` 來複製 .env.example 檔案，並依據 `.env` 內容調整相關欄位。
 
 ### 運行專案
-Terminal cmd gymProject> node index.js
+1. 確保您已安裝 Node.js
+2. 在終端機中導航到專案目錄:
+3. 運行以下命令啟動應用程序: node index.js
+4. 應用程序正在運行。
 
 ### 開啟專案
 專案運行後，在瀏覽器輸入以下即可看到畫面
