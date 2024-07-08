@@ -1,0 +1,35 @@
+.about-gym-container {
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.about-gym-header {
+  width: 100%;
+}
+
+.about-gym-icon {
+  height: 15%;
+  width: 15%;
+}
+
+.about-gym-content {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2rem;
+}
+
+.card {
+  width: 48%;  /* 這裡設置為 48% 而不是 50%，為了在兩個卡片之間留一些空間 */
+}
+
+@media (max-width: 768px) {
+  .about-gym-content {
+    flex-direction: column;
+  }
+
+  .card {
+    width: 100%;
+    margin-bottom: 1rem;
+  }
+}
