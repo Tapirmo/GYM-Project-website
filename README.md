@@ -15,9 +15,9 @@
 * Post course - 教練可以開設新課程。
 
 ## 畫面
-![GYMProject1](https://i.ibb.co/GtzsLwf/GYMProject1.png)
-![GYMProject2](https://i.ibb.co/GMrbTyb/GYMProject2.png)
-![GYMProject3](https://i.ibb.co/gSFmzvV/GYMProject3.png)
+![GYMProject1](https://i.ibb.co/MhgQhj5/GYMProject4.png)
+![GYMProject2](https://i.ibb.co/dMjhp50/GYMProject5.png)
+![GYMProject3](https://i.ibb.co/N2gdD9F/GYMProject6.png)
 
 ## 安裝
 Node.js 版本建議為: v20.12.0 以上
