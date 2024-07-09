@@ -19,7 +19,7 @@
 ![GYMProject2](https://i.ibb.co/dMjhp50/GYMProject5.png)
 ![GYMProject3](https://i.ibb.co/N2gdD9F/GYMProject6.png)
 
-## 影片
+## 操作影片
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/fDpuTmmZfqs/0.jpg)](https://www.youtube.com/watch?v=fDpuTmmZfqs)
 
 ## 安裝
