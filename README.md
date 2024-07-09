@@ -18,6 +18,8 @@
 ![GYMProject1](https://i.ibb.co/MhgQhj5/GYMProject4.png)
 ![GYMProject2](https://i.ibb.co/dMjhp50/GYMProject5.png)
 ![GYMProject3](https://i.ibb.co/N2gdD9F/GYMProject6.png)
+- 實際操作畫面:(YT影片)
+  https://youtu.be/fDpuTmmZfqs
 
 ## 安裝
 Node.js 版本建議為: v20.12.0 以上
